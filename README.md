@@ -6,7 +6,7 @@ Cisco Packet Tracer implementations and screenshots of Computer Networks laborat
 
 ### 1. Star Topology
 
-![Star Topology](Star_topology.png)
+![Star Topology](./Star_topology.png)
 
 ### 2. Bus Topology
 
